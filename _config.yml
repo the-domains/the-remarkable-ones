@@ -6,9 +6,10 @@ color:
   saturation: 0.09707627771422267
   rhythmicContrast: 0.2714699264615774
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: The Remarkable Ones
+description: .deripsni eB
