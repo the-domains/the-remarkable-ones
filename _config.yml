@@ -1,4 +1,3 @@
-layout_spectrum: 0.11880183406174183
 typography_spectrum: 0.9225114020518959
 color:
   brandStrength: 0.7186826369725168
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.11880183406174183
 name: The Remarkable Ones
+title: Short stories of the remarkable ones.
 description: Be inspired. Live epicly.
